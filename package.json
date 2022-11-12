@@ -1,0 +1,25 @@
+{
+  "name": "learn-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pndysvm7/Puppeteer.git"
+  },
+  "author": "pndysvm7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pndysvm7/Puppeteer/issues"
+  },
+  "homepage": "https://github.com/pndysvm7/Puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "19.2.0",
+    "puppeteer-cluster": "^0.23.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0"
+  }
+}
